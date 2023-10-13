@@ -1,5 +1,3 @@
-# Praktikum_PemWeb3
-
 # Praktikum 3 web: Membuat List, Table dan Form
 
 ## Langkah-langkah Praktikum
